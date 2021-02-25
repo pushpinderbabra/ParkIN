@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "380574203160",
+    "firebase_url": "https://project-6c539.firebaseio.com",
+    "project_id": "project-6c539",
+    "storage_bucket": "project-6c539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380574203160:android:d040048106f0c81e",
+        "android_client_info": {
+          "package_name": "com.example.prachi.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380574203160-0oaga4ik1m3dsps69rghq525ot7pbhhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yI60wNbnJXXvT52cmxaqNjh0L8n5oDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
