@@ -59,29 +59,20 @@ It is the measure of cost effectiveness of the project. The economic feasibility
      <td>Login Page</td>
   </tr>
   <tr>
-    <td><img src="img/welcome.png" width=270 height=480></td>
-    <td><img src="img/register.png" width=270 height=480></td>
-    <td><img src="img/login.png" width=270 height=480></td>
+    <td><img src="img/1.JPG" width=270 height=480></td>
+    <td><img src="img/2.JPG" width=270 height=480></td>
+    <td><img src="img/3.JPG" width=270 height=480></td>
   </tr>
   <tr>
-     <td>Video Viewing layout</td>
-     <td>feedback Page</td>
-     <td> search Option</td>
+     <td>Maps Layout</td>
+     <td>Slot Booking</td>
+     <td>Booking Details</td>
   </tr>
   <tr>
-    <td><img src="1.JPG" width=270 height=480></td>
-    <td><img src="img/feedback.png" width=270 height=480></td>
-    <td><img src="img/search.png" width=270 height=480></td>
+    <td><img src="4.JPG" width=270 height=480></td>
+    <td><img src="5.JPG" width=270 height=480></td>
+    <td><img src="6.JPG" width=270 height=480></td>
   </tr>
-  <tr>
-    <td>Full screen</td>
-    <td></td>
-    <td>Upload video</td>
-  </tr>
-  <tr>
-    <td><img src="img/fullscreen%201.png" width=270 height=480></td>
-    <td><img src="img/fullscreen%202.png" width=270 height=480></td>
-    <td><img src="img/upload.png" width=270 height=480></td>
-  </tr>
+ 
  </table>
  
