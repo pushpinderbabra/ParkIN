@@ -45,9 +45,9 @@ effectively.
      <td>Login Page</td>
   </tr>
   <tr>
-    <td><img src="img/1.png" width=270 height=480></td>
-    <td><img src="img/2.png" width=270 height=480></td>
-    <td><img src="img/3.png" width=270 height=480></td>
+    <td><img src="1.png" width=270 height=480></td>
+    <td><img src="2.png" width=270 height=480></td>
+    <td><img src="3.png" width=270 height=480></td>
   </tr>
   <tr>
      <td>Maps Layout</td>
