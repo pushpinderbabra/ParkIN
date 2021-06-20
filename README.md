@@ -64,6 +64,5 @@ effectively.
     <tr>
   <td><img src="7.png" width=270 height=480></td>
   </tr>
- 
  </table>
  
